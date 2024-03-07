@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My projects
+### 💻 My projects
 [Share It ](https://github.com/Semenem29/java-shareit)- a platform for sharing items between users
 
 [Filmorate](https://github.com/Semenem29/java-filmorate) - a movie rating service

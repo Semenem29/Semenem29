@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Semenem29&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="145px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Semenem29&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Semenem29&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
